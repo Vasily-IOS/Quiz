@@ -10,4 +10,5 @@
 
 Попытайте свою удачу и станьте миллинером!
 
-![alt text](example.com/logo.png)
+<img width="1440" alt="Снимок экрана 2022-02-06 в 13 48 42" src="https://user-images.githubusercontent.com/84737606/152677298-e3de2a6e-0e27-4ac8-a2d9-bec3333e7e76.png"><img width="1440" alt="Снимок экрана 2022-02-06 в 13 48 42" src="https://user-images.githubusercontent.com/84737606/152677314-5a6b7213-c0c1-417f-80fc-e561109e4d2a.png">
+
